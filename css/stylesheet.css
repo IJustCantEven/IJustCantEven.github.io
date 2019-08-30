@@ -582,8 +582,8 @@ body {
 	bottom: 5px;
 }
 .swiper-button-next {
-	top: 649px;
-	left: 798px;
+	top: 700px;
+	left: 780px;
 	border: 1px solid white;
 	width: fit-content;
 	height: fit-content;
@@ -591,7 +591,7 @@ body {
 }
 .swiper-button-prev {
 	left: 320px;
-	top: 649px;
+	top: 700px;
 	border: 1px solid white;
 	width: fit-content;
 	height: fit-content;
