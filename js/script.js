@@ -56,7 +56,7 @@ document.querySelectorAll('.pictures-section-tab').forEach((tab)=>{
 });
 
 loadMoreBtn.addEventListener('click',()=>{
-  for (let counter = 0; counter < 36; counter++){
+  for (let counter = 0; counter < 24; counter++){
     // Removing the hidden class of the first 12 pics when on "All" tab
     tabsContents[counter].classList.remove('tab-hidden');
     loadMoreBtn.hidden = true;
